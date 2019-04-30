@@ -1,0 +1,16 @@
+#ifndef CIRCLE_H
+#define CIRCLE_H
+
+#include <iostream>
+
+/***********************************************************
+ * Class: Circle
+ * Description: Holds an integer set (xCoord, yCoord, radius)
+ ***********************************************************/
+
+class Circle
+{
+   
+};
+
+#endif

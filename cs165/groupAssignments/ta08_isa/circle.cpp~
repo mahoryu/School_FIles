@@ -1,0 +1,14 @@
+#include "circle.h"
+#include "point.h"
+
+#include <iostream>
+
+usingnamespace std;
+
+void Circle :: promptForCircle()
+{
+}
+
+void Circle :: display()
+{
+}
